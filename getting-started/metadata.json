@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "recipes": {
+  },
+  "suggestions": {
+  },
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "dependencies": {
+  },
+  "description": "Used by the Getting Started guide at http://help.opscode.com",
+  "providing": {
+  },
+  "maintainer": "Opscode, Inc.",
+  "long_description": "= DESCRIPTION:\n\nThis cookbook is used in the Getting Started Guide as an example.  All it does is render a template to /tmp/chef-getting-started.txt.\n\n",
+  "replacing": {
+  },
+  "maintainer_email": "sysadmin@opscode.com",
+  "groupings": {
+  },
+  "name": "getting-started",
+  "recommendations": {
+  },
+  "platforms": {
+  },
+  "license": "Apache 2.0"
+}
